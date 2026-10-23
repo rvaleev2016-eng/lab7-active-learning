@@ -1,0 +1,17 @@
+[
+  {
+    "login": "admin",
+    "role": "admin",
+    "password_hash": "pbkdf2_sha256$200000$c5d8df33701b4647966519231adbc2ea$cc9d85f5d2fa9b94a88417f33cae1ce87e84096f2295b0fc8dd12bba6a3a569f"
+  },
+  {
+    "login": "engineer",
+    "role": "engineer",
+    "password_hash": "pbkdf2_sha256$200000$a058797b7c3740b30cb8b4913919c006$4383d504de1f6103d752aaac2791d10b7d0fd3082336a08aaf99cf1773390ad2"
+  },
+  {
+    "login": "student",
+    "role": "student",
+    "password_hash": "pbkdf2_sha256$200000$c8381a88996d8baa913371e93d3b7155$dc687c960580b9c934f1cc3376c7115d5ed8e7bd9839846633dc51eca31ee567"
+  }
+]
